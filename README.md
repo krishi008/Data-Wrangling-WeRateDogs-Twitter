@@ -1,2 +1,6 @@
 # WeRateDogs_DataWrangling
-This project involves gathering, assessing, cleaning and creating visualizations to provide some interesting insights 
+
+## Project Motivation
+Goal: wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.
+
+
